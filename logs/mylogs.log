@@ -1,0 +1,196 @@
+20240220 18:39:17 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 18:39:17 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java32 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 18:39:24 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 18:39:25 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 18:39:25 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 18:39:25 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 18:39:25 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java181 - title=Login | Salesforce
+20240220 18:39:36 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java192 - password data is entered in password textbox
+20240220 18:39:36 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java193 - password element is not displayed
+20240220 18:39:49 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java198 - login element is clicked
+20240220 18:39:49 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java199 - login element is not displayed
+20240220 18:39:55 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java204 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 18:39:55 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - Salesforce Home Page opens
+20240220 18:40:00 ERROR [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java35 - TC05_UM.......test execution completed with failure........
+20240220 18:40:04 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java131 - captured the screen
+20240220 18:40:06 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 18:40:06 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java41 - ********tearDownAfterTestMethod executed***************
+20240220 18:40:06 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
+20240220 19:14:34 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 19:14:34 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java32 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 19:14:41 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 19:14:42 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 19:14:43 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 19:14:44 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:14:44 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java181 - title=Login | Salesforce
+20240220 19:14:55 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java192 - password data is entered in password textbox
+20240220 19:14:55 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java193 - password element is not displayed
+20240220 19:15:13 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java198 - login element is clicked
+20240220 19:15:13 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java199 - login element is not displayed
+20240220 19:15:19 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java204 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 19:15:19 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - Salesforce Home Page opens
+20240220 19:15:28 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC05_UM.......test execution completed with success........
+20240220 19:15:28 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 19:15:28 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java41 - ********tearDownAfterTestMethod executed***************
+20240220 19:15:28 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
+20240220 19:51:53 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 19:51:53 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java35 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 19:52:02 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 19:52:05 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 19:52:05 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 19:52:06 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 19:52:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java181 - title=Login | Salesforce
+20240220 19:52:17 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java192 - password data is entered in password textbox
+20240220 19:52:17 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java193 - password element is not displayed
+20240220 19:52:29 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java198 - login element is clicked
+20240220 19:52:29 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java199 - login element is not displayed
+20240220 19:52:35 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java204 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 19:52:35 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - Salesforce Home Page opens
+20240220 19:52:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java70 - Chking for 'My Profile' Item in user menu drop down
+20240220 19:52:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java74 - Chking for 'My Settings' Item in user menu drop down
+20240220 19:52:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java78 - Chking for 'Developer Console' Item in User Menu dropdown
+20240220 19:52:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java82 - Chking for 'Switch to Lightning' Item in user menu drop down
+20240220 19:52:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java86 - Chking for 'Logout' Item in user meny drop down
+20240220 19:52:41 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC05_UM.......test execution completed with success........
+20240220 19:52:44 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 19:52:44 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java44 - ********tearDownAfterTestMethod executed***************
+20240220 19:52:44 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
+20240220 21:18:22 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 21:18:22 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java35 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:18:31 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:18:34 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:18:34 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 21:18:34 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC05_UM.......test execution completed with success........
+20240220 21:18:35 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:18:35 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java44 - ********tearDownAfterTestMethod executed***************
+20240220 21:18:35 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java35 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:18:39 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:18:42 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:18:42 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC08_UM.......test execution started........
+20240220 21:18:43 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 21:18:43 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 21:18:54 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 21:18:54 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 21:19:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 21:19:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 21:19:12 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 21:19:12 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 21:19:23 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java115 - Developer Console Page NOT displayed
+20240220 21:19:23 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC08_UM.......test execution completed with success........
+20240220 21:19:24 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:19:24 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java44 - ********tearDownAfterTestMethod executed***************
+20240220 21:19:24 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java35 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:19:27 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:19:29 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:19:29 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC09_UM.......test execution started........
+20240220 21:19:29 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 21:19:29 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 21:19:40 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 21:19:40 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 21:19:51 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 21:19:51 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 21:19:57 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 21:19:57 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 21:20:02 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java529 - Chking for 'My Profile' Item in user menu drop down
+20240220 21:20:03 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java533 - Chking for 'My Settings' Item in user menu drop down
+20240220 21:20:03 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java537 - Chking for 'Developer Console' Item in User Menu dropdown
+20240220 21:20:03 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java541 - Chking for 'Switch to Lightning' Item in user menu drop down
+20240220 21:20:03 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java545 - Chking for 'Logout' Item in user meny drop down
+20240220 21:20:38 ERROR [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java35 - TC09_UM.......test execution completed with failure........
+20240220 21:20:40 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java131 - captured the screen
+20240220 21:20:41 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:20:41 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java44 - ********tearDownAfterTestMethod executed***************
+20240220 21:20:41 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
+20240220 21:52:49 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 21:52:49 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:52:56 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:52:58 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:52:59 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 21:52:59 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC05_UM.......test execution completed with success........
+20240220 21:53:00 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:53:00 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 21:53:00 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:53:04 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:53:05 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:53:05 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC08_UM.......test execution started........
+20240220 21:53:06 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 21:53:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 21:53:17 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 21:53:17 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 21:53:32 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 21:53:32 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 21:53:38 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 21:53:38 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 21:53:49 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java111 - Title of window displayed: Home Page ~ Salesforce - Developer Edition
+20240220 21:53:49 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java115 - Developer Console Page NOT displayed
+20240220 21:53:49 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC08_UM.......test execution completed with success........
+20240220 21:53:50 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:53:50 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 21:53:50 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 21:53:54 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 21:53:55 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 21:53:55 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC09_UM.......test execution started........
+20240220 21:53:55 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 21:53:55 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 21:54:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 21:54:06 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 21:54:19 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 21:54:19 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 21:54:25 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 21:54:25 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 21:54:30 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java529 - Chking for 'My Profile' Item in user menu drop down
+20240220 21:54:30 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java533 - Chking for 'My Settings' Item in user menu drop down
+20240220 21:54:30 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java537 - Chking for 'Developer Console' Item in User Menu dropdown
+20240220 21:54:30 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java541 - Chking for 'Switch to Lightning' Item in user menu drop down
+20240220 21:54:30 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java545 - Chking for 'Logout' Item in user meny drop down
+20240220 21:55:10 ERROR [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java35 - TC09_UM.......test execution completed with failure........
+20240220 21:55:13 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java131 - captured the screen
+20240220 21:55:14 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 21:55:14 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 21:55:14 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
+20240220 22:39:44 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java50 - RegressionTesthas started..................
+20240220 22:39:45 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 22:39:52 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 22:39:54 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 22:39:54 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC05_UM.......test execution started........
+20240220 22:39:54 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC05_UM.......test execution completed with success........
+20240220 22:39:55 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 22:39:55 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 22:39:55 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 22:39:59 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 22:40:01 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 22:40:01 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC08_UM.......test execution started........
+20240220 22:40:02 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:40:02 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 22:40:13 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 22:40:13 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 22:40:29 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 22:40:29 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 22:40:35 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 22:40:35 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 22:40:40 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java108 - current window handle :9B4C7643C6E073C03E98BDB38E52DD15
+20240220 22:40:47 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java119 - current window handle :Developer Console
+20240220 22:40:52 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC08_UM.......test execution completed with success........
+20240220 22:40:55 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 22:40:55 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 22:40:55 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java36 - ......................BeforeMethod setupBeforeMethod started.............
+20240220 22:41:04 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java35 - Chrome browser has started
+20240220 22:41:06 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.comis entered
+20240220 22:41:06 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java22 - TC09_UM.......test execution started........
+20240220 22:41:07 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java104 - https://login.salesforce.com/is entered
+20240220 22:41:07 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java183 - title=Login | Salesforce
+20240220 22:41:18 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java194 - password data is entered in password textbox
+20240220 22:41:18 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java195 - password element is not displayed
+20240220 22:41:31 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java200 - login element is clicked
+20240220 22:41:31 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java201 - login element is not displayed
+20240220 22:41:37 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java206 - title1=Home Page ~ Salesforce - Developer Edition
+20240220 22:41:37 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java208 - Salesforce Home Page opens
+20240220 22:41:42 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java520 - Chking for 'My Profile' Item in user menu drop down
+20240220 22:41:42 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java524 - Chking for 'My Settings' Item in user menu drop down
+20240220 22:41:42 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java528 - Chking for 'Developer Console' Item in User Menu dropdown
+20240220 22:41:42 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java532 - Chking for 'Switch to Lightning' Item in user menu drop down
+20240220 22:41:42 INFO  [main] SalesforceBaseTest.SFBaseTest SFBaseTest.java536 - Chking for 'Logout' Item in user meny drop down
+20240220 22:41:48 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java29 - TC09_UM.......test execution completed with success........
+20240220 22:41:50 INFO  [main] SalesforceBaseTest.BaseTest BaseTest.java118 - browser instance closed
+20240220 22:41:50 INFO  [main] SalesforceAutomation.SFUserMenuTCs SFUserMenuTCs.java45 - ********tearDownAfterTestMethod executed***************
+20240220 22:41:50 INFO  [main] SalesforceUtilities.SalesforceListenerUtility SalesforceListenerUtility.java56 - RegressionTesthas ended..................
